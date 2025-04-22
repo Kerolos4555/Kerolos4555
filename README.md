@@ -20,13 +20,13 @@ I’m looking for help with Mobile application development.
 
 ## 🛠️ Languages and Tools
 
-<img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/48/000000/dart.png" />
-<img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/color/48/000000/flutter.png" />
-<img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/000000/figma.png" />
-<img align="left" alt="Firebase" width="40px" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img align="left" alt="Supabase" width="40px" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" />
-<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" />
-<img align="left" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
-<img align="left" alt="Android" width="40px" src="https://img.icons8.com/color/48/000000/android-os.png" />
+[<img align="left" alt="Dart" width="40px" src="https://img.icons8.com/color/48/dart.png" />](https://dart.dev)
+[<img align="left" alt="Flutter" width="40px" src="https://img.icons8.com/color/48/flutter.png" />](https://flutter.dev)
+[<img align="left" alt="Figma" width="40px" src="https://img.icons8.com/color/48/figma--v1.png" />](https://www.figma.com)
+[<img align="left" alt="Firebase" width="40px" src="https://img.icons8.com/color/48/firebase.png" />](https://firebase.google.com)
+[<img align="left" alt="Supabase" width="40px" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" />](https://supabase.com)
+[<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" />](https://www.mysql.com)
+[<img align="left" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />](https://www.postman.com)
+[<img align="left" alt="Android" width="40px" src="https://img.icons8.com/color/48/android-os.png" />](https://developer.android.com)
 
 <br /><br /><br />
