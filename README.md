@@ -5,7 +5,7 @@
 
 🚀 Built multiple small apps using Flutter as part of my learning journey.
 
-📄 [View My CV](https://drive.google.com/file/d/1jDzTXwTqd69z6pEHGQXQTCQX9Riwvi-7/view?usp=drive_link)
+📄 [View My CV](https://drive.google.com/file/d/1V7kfjJmmYxPGNhe-CLqKzo26i63g6eNu/view?usp=drive_link)
 
 ---
 
