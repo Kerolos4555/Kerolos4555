@@ -26,7 +26,7 @@ I’m looking for help with Mobile application development.
 <img align="left" alt="Firebase" width="40px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" alt="Supabase" width="40px" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" />
 <img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" />
-<img align="left" alt="Postman" width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/postman-api-platform-for-building-and-using-apis-logo-color-tal-revivo.png" />
+<img align="left" alt="Postman" width="40px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Android" width="40px" src="https://img.icons8.com/color/48/000000/android-os.png" />
 
 <br /><br /><br />
