@@ -1,7 +1,7 @@
 # Hi there, I'm Kerolos Karim Fayez 👋  
 ### *Flutter Developer*
 
-I’m looking for help with Mobile application development.
+🤝 I’m looking for help with Mobile application development.
 
 🚀 Built multiple small apps using Flutter as part of my learning journey.
 
