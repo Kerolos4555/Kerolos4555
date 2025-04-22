@@ -28,5 +28,6 @@ I’m looking for help with Mobile application development.
 [<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" />](https://www.mysql.com)
 [<img align="left" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />](https://www.postman.com)
 [<img align="left" alt="Android" width="40px" src="https://img.icons8.com/color/48/android-os.png" />](https://developer.android.com)
+[<img align="left" alt="VS Code" width="40px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
 
 <br /><br /><br />
